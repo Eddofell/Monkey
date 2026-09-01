@@ -1,7 +1,2 @@
-print ("soy un mono")
+print("prueba 5 de mono")
 
-print("soy otro mono")
-
-#test
-
-print("otro mono de prueba a ver")
